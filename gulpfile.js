@@ -1,6 +1,7 @@
 var gulp = require('gulp');
 var del = require('del');
 var concat = require('gulp-concat');
+var git = require('gulp-git');
 var exec = require('child_process').exec;
 
 gulp.task('default', ['build'], function (cb) {
@@ -31,4 +32,10 @@ gulp.task('build', ['clean'], function () {
   return gulp.src(['lodash/lodash.js', 'src/load.gs'])
     .pipe(concat('logashgs.gs'))
     .pipe(gulp.dest('build'));
+});
+
+gulp.task('checkout', function () {
+    git.checkout('master', function (err) {
+      if (err) throw err;
+    },  {cwd: "./lodash/"});
 });
