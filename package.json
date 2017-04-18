@@ -1,0 +1,25 @@
+{
+  "name": "lodashgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshliaer/lodashgs.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/oshliaer/lodashgs/issues"
+  },
+  "homepage": "https://github.com/oshliaer/lodashgs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  }
+}
