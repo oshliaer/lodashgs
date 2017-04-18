@@ -1,6 +1,6 @@
 # LodashGS
 
-Lodash for Google Apps Script is a library that enables the use of the [lodash.js](https://lodash.com) library in [Google Apps Script](https://developers.google.com/google-apps/).
+Lodash for Google Apps Script is a library that enables the use of the [lodash.js](https://lodash.com) library in [Google Apps Script](https://developers.google.com/apps-script/).
 API docs are available [here](https://script.google.com/macros/library/versions/d/1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW).
 
 ## Adding the library to your project
@@ -27,4 +27,4 @@ Apps Script editor.
 {TO DO}
 
 ## License
-Lodash for Google Apps Script is released under the WTFPL license.
+Lodash for Google Apps Script is released under the MIT license.

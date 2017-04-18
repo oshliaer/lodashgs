@@ -11,7 +11,7 @@
     "url": "git+https://github.com/oshliaer/lodashgs.git"
   },
   "author": "",
-  "license": "WTFPL",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/oshliaer/lodashgs/issues"
   },
