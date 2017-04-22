@@ -26,5 +26,9 @@ Apps Script editor.
 ## Testing the library
 {TO DO}
 
+## Links
+* [Underscore for Google Apps Script](https://github.com/simula-innovation/gas-underscore)
+* [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618)
+
 ## License
 Lodash for Google Apps Script is released under the MIT license.
