@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "clean": "rm -rf build/*",
+    "build": "npm run clean && cp lodash/lodash.js build/logashgs.js && cat src/load.js >> build/logashgs.js && cp src/appsscript.json build/",
+    "deploy": "npm run build && clasp push"
   },
   "repository": {
     "type": "git",
@@ -18,9 +21,6 @@
   "homepage": "https://github.com/oshliaer/lodashgs#readme",
   "dependencies": {},
   "devDependencies": {
-    "del": "^2.2.2",
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-git": "^2.8.1"
+    "@google/clasp": "^2.0.1"
   }
 }
