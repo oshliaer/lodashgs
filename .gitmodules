@@ -1,0 +1,3 @@
+[submodule "lodash"]
+	path = lodash
+	url = git@github.com:lodash/lodash.git
