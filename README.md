@@ -20,6 +20,12 @@ To load LodashGS:
 var _ = LodashGS.load();
 ```
 
+Same for v8:
+
+```js
+const _ = LodashGS.load();
+```
+
 ## Copying the library
 
 A Google Apps Script project for Lodash is available [here](https://script.google.com/d/1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW/edit?usp=sharing).
