@@ -14,7 +14,7 @@ Lodash for Google Apps Script is made available as a script library. This is how
 
 ### Custom copying
 
-You can find the current build for the Apps Script platform in the [build](./master/build) folder.
+You can find the current build for the Apps Script platform in the [build](./build) folder.
 
 ## Versions
 
