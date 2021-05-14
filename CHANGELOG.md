@@ -1,0 +1,32 @@
+- Upgrade to 1.0.2-1
+- Merge pull request #16 from contributorpw/develop
+- Clear build. Update bulding
+- Merge pull request #15 from contributorpw/develop
+- Update manifest to v8
+- Merge pull request #13 from contributorpw/develop
+- Merge pull request #12 from contributorpw/upgrade
+- Refresh npm modules
+- Upgrade to 4.17.21
+- Update readme
+- Merge pull request #8 from contributorpw/dependabot/npm_and_yarn/ini-1.3.8
+- Bump ini from 1.3.5 to 1.3.8
+- Merge pull request #7 from contributorpw/develop
+- Upgrade to 4.17.20
+- 4.17.20
+- Update npm
+- 4.17.15
+- 4.17.15
+- npm up
+- Readme lint
+- 4.17.11 and lazy loading
+- change gapps to clasp
+- rename gs to js
+- npm update
+- Reset to lodash 4.17.11
+- Update gitmodules
+- Create LICENSE
+- Comments & Links
+- gulpfile
+- Move to MIT Lic, fix README typo
+- 4.17.4
+- Initial commit
