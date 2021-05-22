@@ -12,6 +12,14 @@ Lodash for Google Apps Script is made available as a script library. This is how
 3. Select the highest version number, and choose Lodash as the identifier. (Do not turn on Development Mode unless you know what you are doing. The development version may not work.)
 4. Press Save. You can now use the Lodash library in your code.
 
+### Custom copying
+
+You can find the current build for the Apps Script platform in the [build](./build) folder.
+
+## Versions
+
+- The `6` version (full description `v1.0.2-1 (4.17.21)`) of the LodashGS corresponds to the `4.17.21` version of the Lodash.
+
 ## Loading the library
 
 To load LodashGS:
@@ -39,8 +47,8 @@ Apps Script editor.
 
 ## Links
 
-* [Underscore for Google Apps Script](https://github.com/simula-innovation/gas-underscore)
-* [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618)
+- [Underscore for Google Apps Script](https://github.com/simula-innovation/gas-underscore)
+- [Differences between lodash and underscore](http://stackoverflow.com/questions/13789618)
 
 ## License
 
