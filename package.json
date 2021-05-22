@@ -17,9 +17,8 @@
     "url": "https://github.com/oshliaer/lodashgs/issues"
   },
   "homepage": "https://github.com/oshliaer/lodashgs#readme",
-  "dependencies": {},
   "devDependencies": {
-    "@google/clasp": "^2.3.0",
+    "@google/clasp": "^2.3.2",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-include": "^2.4.1",
