@@ -1,6 +1,6 @@
 {
   "name": "lodashgs",
-  "version": "1.0.2-2",
+  "version": "1.0.2-3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oshliaer/lodashgs.git"
+    "url": "git+https://github.com/contributorpw/lodashgs.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oshliaer/lodashgs/issues"
+    "url": "https://github.com/contributorpw/lodashgs/issues"
   },
-  "homepage": "https://github.com/oshliaer/lodashgs#readme",
+  "homepage": "https://github.com/contributorpw/lodashgs#readme",
   "devDependencies": {
-    "@google/clasp": "^2.3.2",
-    "del": "^6.0.0",
+    "@google/clasp": "^2.4.1",
+    "del": "^6.1.1",
     "gulp": "^4.0.2",
     "gulp-include": "^2.4.1",
     "gulp-rename": "^2.0.0"
